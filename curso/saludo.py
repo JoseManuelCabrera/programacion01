@@ -1,0 +1,5 @@
+print("Ingrese su nombre: ")
+nombre = input()
+print("Ingrese un saludo: ")
+saludo = input()
+print("{} {}".format(saludo, nombre ))
